@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>asection.png</file>
+    <file>bsection.png</file>
+    <file>csection.png</file>
+    <file>dsection.png</file>
+    <file>seat_not_available.png</file>
+    <file>seat_available.png</file>
+  </qresource>
+</RCC>
